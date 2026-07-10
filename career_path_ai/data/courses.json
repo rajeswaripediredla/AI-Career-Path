@@ -1,0 +1,356 @@
+{
+  "courses": [
+    {
+      "skill": "Python",
+      "title": "Python for Everybody",
+      "link": "https://www.coursera.org/learn/python",
+      "level": "beginner",
+      "provider": "Coursera",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Python",
+      "title": "Complete Python Bootcamp",
+      "link": "https://www.udemy.com/course/complete-python-bootcamp",
+      "level": "beginner",
+      "provider": "Udemy",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning A-Z",
+      "link": "https://www.udemy.com/course/machinelearning",
+      "level": "intermediate",
+      "provider": "Udemy",
+      "duration": "4 months"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Andrew Ng's ML Course",
+      "link": "https://www.coursera.org/learn/machine-learning",
+      "level": "intermediate",
+      "provider": "Coursera",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning Fundamentals",
+      "link": "https://www.edx.org/course/machine-learning-fundamentals",
+      "level": "beginner",
+      "provider": "edX",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Machine Learning with Python",
+      "link": "https://www.pluralsight.com/courses/machine-learning-python",
+      "level": "intermediate",
+      "provider": "Pluralsight",
+      "duration": "4 months"
+    },
+    {
+      "skill": "Machine Learning",
+      "title": "Applied Machine Learning",
+      "link": "https://www.linkedin.com/learning/applied-machine-learning",
+      "level": "advanced",
+      "provider": "LinkedIn Learning",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning Specialization",
+      "link": "https://www.coursera.org/specializations/deep-learning",
+      "level": "advanced",
+      "provider": "Coursera",
+      "duration": "5 months"
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Practical Deep Learning",
+      "link": "https://www.fast.ai/",
+      "level": "intermediate",
+      "provider": "Fast.ai",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning with TensorFlow",
+      "link": "https://www.edx.org/course/deep-learning-tensorflow",
+      "level": "advanced",
+      "provider": "edX",
+      "duration": "4 months"
+    },
+    {
+      "skill": "Deep Learning",
+      "title": "Deep Learning with PyTorch",
+      "link": "https://www.pluralsight.com/courses/deep-learning-pytorch",
+      "level": "advanced",
+      "provider": "Pluralsight",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Linear Algebra",
+      "title": "Linear Algebra for Machine Learning",
+      "link": "https://www.coursera.org/learn/linear-algebra-machine-learning",
+      "level": "intermediate",
+      "provider": "Coursera",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Linear Algebra",
+      "title": "Linear Algebra Fundamentals",
+      "link": "https://www.udemy.com/course/linear-algebra-fundamentals",
+      "level": "beginner",
+      "provider": "Udemy",
+      "duration": "4 months"
+    },
+    {
+      "skill": "Linear Algebra",
+      "title": "Linear Algebra for Machine Learning",
+      "link": "https://www.edx.org/course/linear-algebra-machine-learning",
+      "level": "intermediate",
+      "provider": "edX",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Linear Algebra",
+      "title": "Linear Algebra Fundamentals",
+      "link": "https://www.pluralsight.com/courses/linear-algebra-fundamentals",
+      "level": "beginner",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Probability",
+      "title": "Probability and Statistics",
+      "link": "https://www.coursera.org/learn/probability-statistics",
+      "level": "beginner",
+      "provider": "Coursera",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Probability",
+      "title": "Probability Theory",
+      "link": "https://www.udemy.com/course/probability-theory",
+      "level": "intermediate",
+      "provider": "Udemy",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Probability",
+      "title": "Introduction to Statistics",
+      "link": "https://www.edx.org/course/introduction-statistics",
+      "level": "beginner",
+      "provider": "edX",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Probability",
+      "title": "Statistics for Data Science",
+      "link": "https://www.linkedin.com/learning/statistics-for-data-science",
+      "level": "intermediate",
+      "provider": "LinkedIn Learning",
+      "duration": "1 month"
+    },
+    {
+      "skill": "Probability",
+      "title": "Probability Theory",
+      "link": "https://www.pluralsight.com/courses/probability-theory",
+      "level": "intermediate",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics with Python",
+      "link": "https://www.coursera.org/learn/statistics-with-python",
+      "level": "intermediate",
+      "provider": "Coursera",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics Fundamentals",
+      "link": "https://www.udemy.com/course/statistics-fundamentals",
+      "level": "beginner",
+      "provider": "Udemy",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Introduction to Statistics",
+      "link": "https://www.edx.org/course/introduction-statistics",
+      "level": "beginner",
+      "provider": "edX",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Statistics",
+      "title": "Statistics for Data Science",
+      "link": "https://www.linkedin.com/learning/statistics-for-data-science",
+      "level": "intermediate",
+      "provider": "LinkedIn Learning",
+      "duration": "1 month"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Data Visualization with Python",
+      "link": "https://www.coursera.org/learn/data-visualization-with-python",
+      "level": "intermediate",
+      "provider": "Coursera",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Data Visualization with D3.js",
+      "link": "https://www.edx.org/course/data-visualization-d3js",
+      "level": "intermediate",
+      "provider": "edX",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Tableau Desktop Specialist",
+      "link": "https://www.pluralsight.com/courses/tableau-desktop-specialist",
+      "level": "beginner",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Data Visualization",
+      "title": "Power BI for Data Visualization",
+      "link": "https://www.linkedin.com/learning/power-bi-data-visualization",
+      "level": "intermediate",
+      "provider": "LinkedIn Learning",
+      "duration": "1 month"
+    },
+    {
+      "skill": "Data Cleaning",
+      "title": "Data Cleaning with Python",
+      "link": "https://www.coursera.org/learn/data-cleaning-python",
+      "level": "intermediate",
+      "provider": "Coursera",
+      "duration": "1 month"
+    },
+    {
+      "skill": "Data Cleaning",
+      "title": "Data Cleaning Essentials",
+      "link": "https://www.udemy.com/course/data-cleaning-essentials",
+      "level": "intermediate",
+      "provider": "Udemy",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Data Cleaning",
+      "title": "Data Cleaning and Preparation",
+      "link": "https://www.edx.org/course/data-cleaning-preparation",
+      "level": "intermediate",
+      "provider": "edX",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Data Cleaning",
+      "title": "Data Wrangling with Python",
+      "link": "https://www.pluralsight.com/courses/data-wrangling-python",
+      "level": "intermediate",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Feature Engineering",
+      "title": "Feature Engineering for Machine Learning",
+      "link": "https://www.coursera.org/learn/feature-engineering-machine-learning",
+      "level": "advanced",
+      "provider": "Coursera",
+      "duration": "4 months"
+    },
+    {
+      "skill": "Feature Engineering",
+      "title": "Feature Engineering Mastery",
+      "link": "https://www.udemy.com/course/feature-engineering-mastery",
+      "level": "advanced",
+      "provider": "Udemy",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Feature Engineering",
+      "title": "Feature Engineering Techniques",
+      "link": "https://www.edx.org/course/feature-engineering-techniques",
+      "level": "advanced",
+      "provider": "edX",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Feature Engineering",
+      "title": "Advanced Feature Engineering",
+      "link": "https://www.pluralsight.com/courses/advanced-feature-engineering",
+      "level": "advanced",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "Docker",
+      "title": "Docker Mastery",
+      "link": "https://www.udemy.com/course/docker-mastery",
+      "level": "intermediate",
+      "provider": "Udemy",
+      "duration": "1 month"
+    },
+    {
+      "skill": "AWS",
+      "title": "AWS Certified Solutions Architect",
+      "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate",
+      "level": "intermediate",
+      "provider": "Udemy",
+      "duration": "3 months"
+    },
+    {
+      "skill": "Git",
+      "title": "Git & GitHub Complete Course",
+      "link": "https://www.udemy.com/course/git-and-github-bootcamp",
+      "level": "beginner",
+      "provider": "Udemy",
+      "duration": "2 months"
+    },
+    {
+      "skill": "SQL",
+      "title": "SQL for Data Science",
+      "link": "https://www.coursera.org/learn/sql-data-science",
+      "level": "beginner",
+      "provider": "Coursera",
+      "duration": "2 months"
+    },
+    {
+      "skill": "SQL",
+      "title": "Complete SQL Bootcamp",
+      "link": "https://www.udemy.com/course/complete-sql-bootcamp",
+      "level": "beginner",
+      "provider": "Udemy",
+      "duration": "3 months"
+    },
+    {
+      "skill": "SQL",
+      "title": "SQL Fundamentals",
+      "link": "https://www.pluralsight.com/courses/sql-fundamentals",
+      "level": "beginner",
+      "provider": "Pluralsight",
+      "duration": "2 months"
+    },
+    {
+      "skill": "SQL",
+      "title": "Advanced SQL for Data Analysis",
+      "link": "https://www.edx.org/course/advanced-sql-data-analysis",
+      "level": "intermediate",
+      "provider": "edX",
+      "duration": "3 months"
+    },
+    {
+      "skill": "SQL",
+      "title": "SQL for Beginners",
+      "link": "https://www.linkedin.com/learning/sql-for-beginners",
+      "level": "beginner",
+      "provider": "LinkedIn Learning",
+      "duration": "1 month"
+    }
+  ]
+}

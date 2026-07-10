@@ -1,0 +1,114 @@
+{
+  "Data Scientist": {
+    "required_skills": [
+      "Python",
+      "Statistics",
+      "Machine Learning",
+      "Data Visualization",
+      "SQL",
+      "Deep Learning",
+      "Linear Algebra",
+      "Probability",
+      "Data Cleaning",
+      "Feature Engineering"
+    ]
+  },
+  "Web Developer": {
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Git",
+      "REST APIs",
+      "Database Design",
+      "Responsive Design",
+      "Testing"
+    ]
+  },
+  "Machine Learning Engineer": {
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "MLOps",
+      "Cloud Computing",
+      "Docker",
+      "Kubernetes",
+      "Software Engineering"
+    ]
+  },
+  "Data Analyst": {
+    "required_skills": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Data Visualization",
+      "Statistics",
+      "Tableau",
+      "Power BI",
+      "Critical Thinking",
+      "Data Cleaning",
+      "Reporting"
+    ]
+  },
+  "Full Stack Developer": {
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Python",
+      "Database Design",
+      "REST APIs",
+      "Authentication",
+      "Cloud Deployment"
+    ]
+  },
+  "DevOps Engineer": {
+    "required_skills": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "AWS",
+      "Python",
+      "Shell Scripting",
+      "Monitoring",
+      "Networking",
+      "Security"
+    ]
+  },
+  "Mobile App Developer": {
+    "required_skills": [
+      "React Native",
+      "JavaScript",
+      "Mobile UI/UX",
+      "API Integration",
+      "State Management",
+      "Testing",
+      "Performance Optimization",
+      "App Deployment",
+      "Git",
+      "Debugging"
+    ]
+  },
+  "AI/ML Research Scientist": {
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Research Methods",
+      "Mathematics",
+      "Statistics",
+      "TensorFlow",
+      "PyTorch",
+      "Paper Writing",
+      "Experimental Design"
+    ]
+  }
+}
